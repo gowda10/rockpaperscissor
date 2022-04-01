@@ -19,17 +19,17 @@ while True:
 			if computer_choice == 'paper':
 				print('you lose, sorry :(')
 			elif computer_choice == 'scissors':
-				print('You win!!!!! congrats :)')
+				print('Yaay!!!!! You win :)')
 		if choice == 'paper':
 			if computer_choice == 'scissors':
 				print('you lose, sorry :(')
 			elif computer_choice == 'rock':
-				print('You win!!!!! congrats :)')
+				print('Yaay!!!!! You win :)')
 		if choice == 'scissors':
 			if computer_choice == 'rock':
 				print('you lose, sorry :(')
 			elif computer_choice == 'paper':
-				print('You win!!!!! congrats :)')
+				print('Yaay!!!!! You win :)')
 	else:
 		print('invalid choice, try again')
 
